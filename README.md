@@ -1,6 +1,6 @@
 # learn-docker
 # [自己动手写docker](https://item.jd.com/12109237.html)　学习笔记
-
+## 间杂几篇[陈皓的博客](https://coolshell.cn/)
 ## 目录
 - 前言
 	
@@ -9,6 +9,10 @@
 	- Golang
 
 - 第二章 基础技术
+
+    [Docker基础技术：Linux Namespace（上）](https://coolshell.cn/articles/17010.html)
+	
+	[Docker基础技术：Linux Namespace（下）](https://coolshell.cn/articles/17029.html)
 	- Linux Namespace
   		- 概念
   		- UTS Namespace
