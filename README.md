@@ -1,6 +1,7 @@
 # learn-docker
 # [自己动手写docker](https://item.jd.com/12109237.html)　学习笔记
-## 间杂几篇[陈皓的博客](https://coolshell.cn/)
+## 间杂几篇博客
+- [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 ## 目录
 - 前言
 	
